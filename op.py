@@ -238,7 +238,7 @@ Eres un profesor experto en Derecho Laboral y Procedimientos de Chile, enfocado 
 st.set_page_config(page_title=APP_TITLE, layout="wide", initial_sidebar_state="expanded")
 st.title(f"🏛️ {APP_TITLE}") # Added emoji to title
 st.caption(f"(Tú tutor artificial de Derecho Laboral - IPP)")
-st.markdown(f"🤖 Hola! Soy TutorIA. Pregúntame sobre el material del curso. Intentaré explicarte como un profesor, usando **sólo** las fuentes que Aldo Herrera me instruyó.")
+st.markdown(f"🤖 Hola! Soy TutorIA. Pregúntame sobre el material del curso. Te explicarte como profesor, usando **sólo** las fuentes que Aldo Herrera me instruyó.")
 st.info(f"🧠 **Modelo IA:** `{DISPLAY_MODEL_NAME}` (Entrenado por Aldo Manuel Herrera)")
 
 
