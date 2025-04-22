@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+nltk
+requests
+pandas
+python-docx
+notion-client
+openpyxl
