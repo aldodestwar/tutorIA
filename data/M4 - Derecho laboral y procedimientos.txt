@@ -1,0 +1,243 @@
+Okay, here is the transcription of the fourth module, organized and structured for greater coherence:
+
+MÓDULO 4: Los Procedimientos Ejecutivos Laborales
+Área: SOCIAL JURÍDICA
+Curso: DERECHO LABORAL Y PROCEDIMIENTOS
+
+
+Conclusion
+
+Conocer los procedimientos ejecutivos laborales y tener una visión respecto de las reformas que se pretenden para el Derecho del Trabajo.
+
+Introducción
+
+Hemos estudiado en los módulos anteriores los procedimientos de cognición en materia laboral, que implican el conocimiento de los conflictos de relevancia jurídica en materia laboral, a fin de resolver y establecer derechos en favor de una de las partes en desmedro de la otra, generalmente establecidos en una sentencia definitiva.
+
+Sin embargo, el cumplimiento voluntario de parte del que ha sido condenado, es un evento de muy difícil ocurrencia. Por esta razón se necesita un juicio rápido, fundado en un derecho indubitado (emanado de una sentencia judicial y otros que serán estudiados en el presente módulo), en donde las posibilidades de defensa del demandado en este tipo de juicio, también llamado ejecutado, son mínimas, y se verifican solo en el cuaderno principal.
+
+El desarrollo y la actividad en los juicios ejecutivos, se concentra principalmente en el cuaderno de apremio, que tiene como objeto el embargo de los bienes del ejecutado y su posterior realización mediante subasta público.
+
+En el evento de que las gestiones verificadas en el cuaderno de apremio fuesen exitosas, se realizará el pago al ejecutante con el producto de lo obtenido en el eventual remate.
+
+Estos conceptos deberán ser asimilados por ustedes, y con ello, obtener nociones fundamentales respecto del Derecho Procesal Laboral, lo que sumado a lo estudiado en los módulos precedentes, les permitirá desenvolverse en un contexto laboral ante las instituciones tales como las inspecciones del trabajo y los tribunales laborales.
+
+Finalmente, estudiaremos de forma somera el actual proyecto de reforma laboral, que tiene como finalidad mantenerse actualizado respecto de la legislación laboral y además, fomentar el interés en las noticias y contingencias en este ámbito.
+
+I. LOS PROCEDIMIENTOS EJECUTIVOS PARA EL CUMPLIMIENTO DE UNA SENTENCIA LABORAL Y RESTANTES TÍTULOS EJECUTIVOS
+
+1.1. Cumplimiento de la Sentencia Laboral
+
+A fin de poder dar cumplimiento a un dictamen de naturaleza laboral, y en pos de obtener la agilidad en un proceso de ejecución en un tiempo relativamente breve, se ha establecido un Tribunal especial para el conocimiento de estos, el Juzgado de Cobranza Laboral y Previsional.
+
+Sin embargo, en los lugares donde no existan estos tribunales especiales, corresponde el conocimiento al mismo tribunal que dictó la sentencia que dio origen a la cobranza laboral, aplicándose las reglas del Código de Procedimiento Civil.
+
+1.2 Cómo adquiere una Sentencia Laboral fuerza ejecutiva
+
+Una SENTENCIA DEFINITIVA adquiere fuerza ejecutiva cuando:
+
+El Tribunal remite antecedentes al Juzgado de Cobranza. (Plazo: 5 días para remitir los antecedentes).
+
+La causa se radica en el tribunal de cobranza laboral y previsional.
+
+a. Tramitación de las Sentencias Definitivas Laborales en los Juzgados de Cobranza Laboral y Previsional
+
+Los antecedentes se remiten desde el Tribunal del Trabajo.
+
+La causa se remite a la unidad de liquidación.
+
+La liquidación se practica dentro de tercero día.
+
+Se notifica por carta certificada. Podrá objetarse la liquidación dentro de quinto día.
+
+Además se requiere de pago al deudor que puede pagar en quinto día.
+
+El Tribunal de Oficio o a petición de parte puede ordenar a la Tesorería la retención de las devoluciones de impuestos del deudor.
+
+b. Tramitación Juicio Ejecutivo
+
+Un expediente ejecutivo laboral se conforma de dos cuadernos, ya sean virtuales o reales.
+
+El primero de ellos es el cuaderno principal, y en él se encuentra la demanda ejecutiva laboral, la resolución que se pronuncia sobre aquella, y eventualmente, las excepciones o defensas que puede plantear el ejecutado.
+
+El segundo de ellos, el cuaderno de apremio, comienza con el mandamiento de ejecución y embargo ordenado en el cuaderno principal, y en él constan todas las actuaciones y resoluciones que se refieren al eventual embargo de los bienes.
+
+Luego viene la realización a través de un remate o subasta, y culmina con el pago al ejecutante del producto obtenido en el referido remate.
+
+c. Tramitación Cuaderno Principal, excepciones a la ejecución
+
+Transcurridos cinco días desde la notificación y acompañando antecedentes escritos, el demandado puede oponer EXCEPCIONES A LA EJECUCIÓN.
+
+Las excepciones a la ejecución son las defensas, bastante limitadas a diferencia de toda la defensa en los juicios de cognición, con las siguientes excepciones:
+
+Pago
+
+Remisión
+
+Novación
+
+Transacción
+
+IMPORTANTE
+El plazo para oponerla es de cinco días desde la notificación y debe ir acompañada de antecedentes escritos.
+
+Posteriormente, se confiere traslado de tres días al ejecutante, para luego, DICTARSE SENTENCIA (respecto de las ejecuciones), no confundirla con la SENTENCIA COMO TÍTULO EJECUTIVO.
+
+d. Tramitación Cuaderno de Apremio
+
+Si el demandando es notificado de la demanda ejecutiva laboral:
+
+Requerimiento de pago en la notificación (si paga se termina el juicio).
+
+En el caso que no cancele....
+
+Dentro de quinto día después de la última notificación se realizará la traba del EMBARGO.
+
+Si no existieron excepciones o bien fueron rechazadas:
+
+Embargo de los bienes del ejecutado (puede oponerse al embargo).
+
+Si se opone se decreta el embargo con fuerza pública.
+
+Designación de martillero.
+
+Subasta de los bienes.
+
+Pago (con el producto del remate o subasta).
+
+El Tribunal ordena hacer el pago al ejecutante con los fondos que son retenidos, principalmente a través del embargo. (This box seems misplaced in the diagram flow but is included here as part of the text).
+
+Si existen bienes embargados:
+
+Se procede al pago de los créditos a través del remate de estos bienes.
+
+Si no paga puede solicitarse arresto hasta por quince días. (This box seems separate from the main flow but is included as it was in the original).
+
+1.3 Los Títulos Ejecutivos
+
+Un título ejecutivo es un instrumento que da cuenta de la existencia de un derecho indubitado (lo que significa que no hay lugar a dudas de aquel).
+
+El artículo 464, señala cuáles son esos títulos ejecutivos:
+
+Las sentencias ejecutoriadas (estudiadas al comienzo de este módulo).
+
+La transacción, conciliación y avenimiento que cumplan con las formalidades establecidas en la ley.
+
+Los finiquitos suscritos por el trabajador y el empleador y autorizados por el Inspector del Trabajo o por funcionarios a los cuales las leyes facultan para actuar como ministros de fe.
+
+Originales de instrumentos colectivos del trabajo, respecto de aquellas cláusulas que contengan obligaciones líquidas y actualmente exigibles, y las copias auténticas de las mismas autorizadas por la Inspección del Trabajo.
+
+Cualquier otro título a que las leyes laborales o de seguridad social otorguen fuerza ejecutiva.
+
+a. Ejecución de los otros Títulos Ejecutivos Laborales
+
+Cuando la Demanda cumple con todos y cada uno de los requisitos formales se decreta el denominado MANDAMIENTO DE EJECUCIÓN Y EMBARGO.
+
+También la Demanda pasa a la denominada UNIDAD DE LIQUIDACIÓN. (Se liquida el crédito dentro de tercero día)
+
+La notificación de la Demanda y el requerimiento de pago se realizan PERSONALMENTE.
+
+Todas las reglas señaladas anteriormente respecto de la Sentencias Laborales, se aplican supletoriamente en todos estos casos, especialmente.
+
+Estas se refieren a la oposición de excepciones a la ejecución.
+
+CAPÍTULO II: PROCEDIMIENTOS DE COBRANZA PREVISIONAL, LEY 17.322
+
+1. Tribunal competente para conocer estos asuntos
+
+Le corresponde al Juzgado de Cobranza Laboral y Previsional del domicilio del demandado o bien, del lugar donde se presten o se hayan prestado los servicios de índole laboral.
+
+a. Materias a las cuales se aplica el presente procedimiento de cobranza
+
+Cotizaciones Previsionales (AFP; INP).
+
+Cotizaciones de Salud (Isapre; Fonasa).
+
+Cotización de Seguro de Cesantía (AFC).
+
+Cotizaciones establecidas en la Ley 16.744, sobre accidentes del trabajo (y que regula lo atingente a las Mutuales de Seguridad).
+
+Cuestiones sobre crédito Social (Cajas de Compensación).
+
+b. Reclamos del trabajador en que no se requerirá patrocinio de abogado
+
+Actas, firmadas por las partes y autorizadas ante la Inspección del Trabajo, que den constancia de acuerdos que contengan el reconocimiento de obligaciones de seguridad social.
+
+Sentencia firme que ordene el pago de cotizaciones de seguridad social.
+
+Liquidaciones de remuneraciones en que conste la retención de las cotizaciones y certificado de la entidad previsional donde conste su no pago oportuno.
+
+Cualquier otro título a que las leyes den fuerza ejecutiva.
+
+2. Tramitación del juicio ejecutivo en materias de cobranza previsional
+
+Una vez interpuesto el reclamo de parte del trabajador, el Juez ordena que se notifique la institución de Seguridad Social, a fin de que esta también se haga parte del juicio y continúe con las correspondientes acciones ejecutivas.
+
+Todo esto ocurre en un plazo de 30 días, bajo apercibimiento de poder ser declarado negligente para el cobro de las sumas que favorecen al trabajador.
+
+a. Negligencia de la Institución de Seguridad Social
+
+Dicha situación se constituye cuando la demanda prescribe, esto es, cuando no la entabla en el término de cinco días desde el término de los servicios y la constancia de las cotizaciones enteradas por el empleador y no pagados.
+
+b. No aplicación del abandono de procedimiento en este tipo de juicios
+
+En este caso, el Tribunal de Cobranza debe proceder de oficio en todas las actuaciones que se susciten en el proceso, por lo que la sanción de abandono de procedimiento por inacción de las partes no procede en estos casos.
+
+En estos juicios, respecto de los cuales se estableció la litigación electrónica, también procede la solicitud de retención de dinero por parte de la Tesorería General de la República, por concepto de impuestos, cuando las cotizaciones se encuentran impagas.
+
+c. Cuadro de tramitación de los procedimientos de cobranza previsional (Cuaderno Principal)
+
+Se presenta la DEMANDA por la institución de Seguridad Social.
+
+El Tribunal examina la demanda y le da curso si cumple con los imperativos legales.
+
+Se despacha mandamiento de ejecución y embargo, y se notifica y requiere de pago al deudor.
+
+Dentro del plazo de cinco días puede intentar excepciones a la ejecución (como las que señalamos en los procedimientos anteriores).
+
+En el intertanto se puede oficiar a la Tesorería General de la República para la referida retención de impuestos.
+
+Si no hay oposición o se rechazan, se continúa con la ejecución.
+
+Posteriormente, en el cuaderno principal:
+
+Se presentan excepciones a la ejecución por parte del ejecutado.
+
+Se reciben las excepciones a prueba fijando los hechos que deben ser objeto de prueba.
+
+Se confiere traslado de cuatro días para el ejecutante.
+
+10 días del término probatorio. Luego 6 días de observaciones a la prueba.
+
+Se dicta SENTENCIA, en un término de 10 días.
+
+El tribunal puede estimarlas inadmisibles y seguir con la ejecución o declarar innecesaria la prueba.
+
+d. Cuaderno de Apremio (Tramitación cobranza previsional)
+
+Requerimiento de pago en la notificación (si paga se termina el juicio).
+
+En el caso que no cancele....
+
+Embargo de los bienes del ejecutado (puede oponerse al embargo).
+
+Si se opone se decreta el embargo con fuerza pública.
+
+Designación de martillero.
+
+Subasta de los bienes.
+
+Pago (con el producto del remate o subasta).
+
+Si no paga puede solicitarse arresto hasta por quince días.
+
+Cierre
+
+Este módulo final nos ha permitido conocer los procedimientos ejecutivos laborales.
+
+En el primer capítulo, hemos revisado los procedimientos para el cumplimiento de lo ordenado en una sentencia ejecutiva laboral y para el cobro de los restantes títulos ejecutivos establecidos por la ley, poniendo hincapié en las distintas etapas y cuadernos que componen dicho procedimiento.
+
+En el segundo capítulo, hemos estudiado los procedimientos de cobranza previsional establecidos en la ley N° 17.322, en donde deberán estudiar las similitudes y diferencias con los procedimientos ejecutivos estudiados en el primer capítulo.
+
+LECTURA OBLIGATORIA
+Apunte sobre la Reforma Laboral, el cual es fundamental en la presente asignatura.
+Este documento lo puedes encontrar en la carpeta "Lecturas Obligatorias".

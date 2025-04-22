@@ -1,0 +1,243 @@
+Modulo refuerzo
+Apuntes de Derecho Laboral Chileno
+I. Conceptos Fundamentales del Derecho del Trabajo
+
+Definición de Trabajo: Conjunto de actividades que se realizan con la finalidad de alcanzar una determinada meta, principalmente la producción de bienes y servicios.
+
+Fuentes Principales: La fuente legal principal de la legislación laboral chilena es la Constitución Política de la República.
+
+Principios del Derecho del Trabajo: Líneas directrices que promueven y encauzan la aprobación de nuevas normas, orientan la interpretación de las existentes y resuelven casos no previstos.
+
+Principio de la Continuidad de la Relación de Trabajo: Principio propio del Derecho del Trabajo.
+
+Principio de Buena Fe: Aplicable al Derecho del Trabajo.
+
+Principio de la Norma más Favorable: Ante leyes aplicables sobre la misma materia, se aplica la más favorable para el trabajador.
+
+II. El Contrato Individual de Trabajo
+
+Partes: Se obligan recíprocamente el trabajador y el empleador.
+
+Elementos Esenciales:
+
+Los sujetos (trabajador y empleador).
+
+La prestación de servicios (realizada por el trabajador).
+
+La remuneración (pagada por el empleador por los servicios).
+
+El vínculo de subordinación o dependencia.
+
+Documento No Esencial del Contrato: El finiquito (documento que acredita el término de la relación laboral).
+
+Cláusulas:
+
+Mínimas: Aquellas que deben estar presentes según la ley.
+
+Prohibidas: Aquellas que implican renuncia a derechos irrenunciables del trabajador.
+
+Modificaciones Acordadas: Las modificaciones de común acuerdo no pueden afectar los derechos irrenunciables.
+
+Ius Variandi: Facultad del empleador para modificar unilateralmente estipulaciones como sitio de trabajo, naturaleza de los servicios y jornada, dentro de ciertos límites.
+
+III. Jornada de Trabajo, Descansos y Remuneraciones
+
+Jornada Activa: Tiempo durante el cual el trabajador debe prestar servicios efectivos.
+
+Jornada Extraordinaria: Tiempo que excede la jornada legal o contractual.
+
+Descanso Laboral: Derecho que puede hacerse efectivo dentro y fuera de la jornada.
+
+Feriado (Vacaciones):
+
+Feriado Básico: Quince días hábiles con remuneración íntegra.
+
+Feriado Proporcional: Indemnización al trabajador si el contrato termina antes de completar el año de servicio que da derecho a feriado.
+
+Permisos Laborales: La ley reconoce diversos permisos (maternidad, cargas cívicas, nacimiento/muerte hijo o cónyuge, sindicales), pero no un permiso para contacto regular con parientes cercanos.
+
+Remuneraciones: Contraprestaciones en dinero y adicionales en especie avaluables en dinero que recibe el trabajador del empleador por el contrato.
+
+Característica: Se paga por causa del contrato.
+
+Tipos: Sueldo (fijo), Comisión (porcentaje ventas/operaciones), Participación (proporción utilidades), Gratificación (parte de utilidades), Sobresueldo (horas extras).
+
+Beneficios No Remuneracionales: Viático (para solventar gastos por motivos laborales fuera de residencia habitual), Asignación de Movilización o Locomoción (salvo exceso razonable), Asignación Familiar, etc.
+
+Ingreso Mínimo Mensual: Aplicable a todos los trabajadores del sector privado.
+
+IV. Terminación del Contrato de Trabajo
+
+Causales de Término: La ley contempla causales objetivas, subjetivas (imputables al trabajador), necesidades de la empresa, desahucio del empleador.
+
+La causal por necesidades de la empresa incluye racionalización, modernización, bajas en productividad, cambios en mercado/economía que hagan necesaria la separación de trabajadores.
+
+La causal imputable al empleador se conoce también como Despido Indirecto.
+
+Una causal no establecida es la "establecida por el estado".
+
+Finiquito: Instrumento que acredita la finalización de la relación laboral. Debe constar en tres copias.
+
+V. Derecho Procesal Laboral (Principios y Organización)
+
+Definición: Conjunto de normas y principios que regulan la actividad jurisdiccional del Estado para la aplicación del derecho laboral y los procedimientos para verificarla.
+
+Derecho Procesal Orgánico: Rama que estudia la organización del poder judicial, sus órganos y su competencia.
+
+Principios Formativos:
+
+Oralidad: Los elementos probatorios para la sentencia son los ofrecidos e incorporados legalmente en la etapa procesal. Ligado al principio de Inmediación.
+
+Inmediación: El juez conoce directamente las pruebas en audiencias orales.
+
+Publicidad: Las actuaciones del juicio deben ser conocidas por terceros.
+
+Impulso Procesal de Oficio: Corresponde al juez impulsar el juicio.
+
+Concentración: Los actos procesales se desarrollan en una o varias audiencias conectadas temporalmente.
+
+Celeridad: Actuaciones rápidas y prontas en el menor plazo.
+
+Gratuidad: Busca que el trabajador no tenga acceso oneroso a la justicia.
+
+Buena Fe: Principio que busca correcta aplicación de justicia, evitando actuaciones torcidas.
+
+Orden Supletorio de Normas Procesales:
+
+Normas especiales para cada procedimiento laboral.
+
+Normas del procedimiento ordinario o general en juicio del trabajo.
+
+Normas contenidas en los libros I y II del Código de Procedimiento Civil.
+
+Límite: No puede ir en contra de los principios que informan el procedimiento laboral.
+
+Reclamación de Multas (≤ 10 IMM): Se aplica el procedimiento monitorio.
+
+Asistencia Letrada Obligatoria: Constituye una garantía para las partes.
+
+Actuaciones Electrónicas: Excepcionales, dado que el juicio se basa en audiencias.
+
+Costas: El juez debe pronunciarse sobre ellas en toda resolución. Si el trabajador litigó con privilegio de pobreza, las costas personales de la contraria pertenecen a la Corporación de Asistencia Judicial.
+
+Plazos: Los plazos establecidos en el Libro V del Código del Trabajo son Fatales. Se suspenden durante los días feriados.
+
+Notificaciones (General):
+
+Primera notificación al demandado: Personalmente.
+
+Primera notificación al demandante: Por estado diario.
+
+Notificación personal en lugar público: En cualquier día y hora.
+
+Notificación personal especial (si no se encuentra adulto): Se fija aviso en lugar visible.
+
+Notificación por avisos: Para personas difíciles de individualizar/ubicar o en gran cantidad.
+
+Notificación al trabajador en lugar de labores (si es la empresa): Personal.
+
+Resolución no dictada en audiencia que ordena comparecencia personal: Por carta certificada.
+
+Sentencia dictada en audiencia preparatoria (si no hubo controversia) o al término de audiencia de juicio: Partes se entienden notificadas en la misma audiencia.
+
+Restantes resoluciones (sin forma especial): Por estado diario.
+
+Incidentes: La regla general es que se resuelven en las audiencias.
+
+Organización Tribunales Laborales: Estructura similar a Juzgados de Garantía, Tribunales Orales en lo Penal y Tribunales de Familia.
+
+Nivel Superior de Decisión: Comité de Jueces. Sus acuerdos por mayoría; en empate, decide el Juez Presidente.
+
+Calificación del Personal: Corresponde al Juez Presidente.
+
+Unidades Administrativas: Unidad de Sala, Atención de Público, Servicios, Administración de Causas. No existe una "Unidad Penitenciaria para cumplimiento de penas".
+
+Unidad de Administración de Causas: A cargo del manejo de causas, registros, notificaciones, fechas/salas, archivo, ingreso/rol, base de datos, estadísticas.
+
+VI. Procedimiento Ordinario Laboral
+
+Estructura: Dos audiencias: Preparatoria y de Juicio.
+
+Audiencia Preparatoria: Plazo para realizarla: No más de treinta y cinco días hábiles desde la primera resolución.
+
+Contestación de la Demanda: Requisitos: Escrita, 5 días antelación, exposición hechos, pronunciarse sobre hechos demandados. No es requisito indicar medios de defensa o dirigirse a la Corte de Apelaciones.
+
+Excepciones: Se oponen al momento de contestar la demanda. No existe la excepción de "abandono de la instancia".
+
+Demanda Reconvencional: Debe interponerse en la contestación, ante Tribunal competente, ligada a la acción. No debe plantearse antes que la demanda principal (eso son medidas prejudiciales).
+
+Conciliación: Posterior a la etapa de discusión en audiencia preparatoria, se llama a las partes a conciliación. Si se logra, equivale a sentencia ejecutoriada.
+
+Etapa de Prueba: Procede si hay hechos sustanciales, pertinentes y controvertidos. El juez recibe la causa a prueba.
+
+Recurso contra Resolución que Recibe a Prueba: Reposición.
+
+Audiencia de Prueba: Se inicia con la rendición de la prueba decretada.
+
+Orden general: Comienza con la prueba del demandante.
+
+Orden en juicios de despido: Comienza con la prueba del demandado.
+
+Primera prueba que se rinde: Prueba documental.
+
+Quién puede alterar el orden de recepción: El juez o Tribunal.
+
+Acta de Audiencia: Se suscribe al finalizar la audiencia de juicio. Contiene individualización, lugar, fecha. No incluye un dictamen de la Inspección del Trabajo.
+
+Sentencia: Puede pronunciarse al término de la audiencia de juicio o dentro de decimoquinto día. En juicios de tutela, en la misma audiencia o dentro de décimo día.
+
+VII. Procedimiento Ejecutivo y de Cobranza
+
+Tribunales de Cobranza Laboral y Previsional: Tribunales especiales para la ejecución laboral y cobranza previsional. Tienen competencia para conocer causas laborales y su cobro, así como juicios de cobranza previsional. El competente para cobranza previsional es el del domicilio del demandado.
+
+Procedimiento Ejecutivo Laboral:
+
+Plazo para cumplimiento voluntario: Cinco días desde la sentencia.
+
+Remisión de causa al Tribunal de Cobranza: Produce la radicación.
+
+Unidad que recibe antecedentes: Unidad de Liquidación.
+
+Plazo para liquidar crédito: Dentro de tercer día.
+
+Notificación de liquidación: Mediante carta certificada.
+
+Cuadernos del expediente: Principal y de Apremio.
+
+Mandamiento: Al cumplir requisitos formales, se decreta mandamiento de ejecución y embargo.
+
+Notificación de demanda y requerimiento de pago: Personalmente.
+
+Dentro de quinto día (post notificación y sobre bienes): Puede ocurrir el embargo.
+
+Si no hay excepciones o son rechazadas: El Tribunal ordena pago con fondos retenidos/embargados.
+
+Títulos Ejecutivos: Instrumento que acredita un derecho indubitado. Incluyen sentencias ejecutoriadas, conciliaciones/transacciones/avenimientos con formalidades, finiquitos autorizados, instrumentos colectivos con obligaciones líquidas. No son títulos ejecutivos copias de cheques, pagarés, letras de cambio para el empleador o contratos de trabajo. Una sentencia debe estar ejecutoriada para dar cumplimiento.
+
+Excepciones a la Ejecución: Defensas limitadas (Pago, Remisión, Novación, Transacción). Para probarlas, debe existir constancia en antecedentes escritos.
+
+Liquidación (Objetación): Se puede objetar por errores o alteración en bases de cálculo, o incorrecta aplicación de reajustes/intereses.
+
+Pago en Cuotas (Acordado): Debe ser ratificado ante el Juez y las cuotas deben incluir reajustes e intereses.
+
+Realización de Bienes: Se realiza mediante remate público. Para rematar, debe haber embargo decretado por el Tribunal competente. Si hay bienes embargados y no hay otra forma de pago, se rematan.
+
+Juicios de Cobranza Previsional:
+
+Se aplica a cotizaciones previsionales (AFP/INP), de salud (Isapre/Fonasa), seguro de cesantía (AFC) y Ley 16.744 (accidentes).
+
+Plazo para notificar institución de Seguridad Social: Dentro de 30 días post reclamo.
+
+Negligencia de institución: Si no entabla acción en 5 días desde término servicios o si hay constancia de cotizaciones enteradas pero no pagadas.
+
+Sanción procesal que NO procede: Abandono del procedimiento.
+
+Retención de impuestos (favor demandante): Se puede oficiar a la Tesorería General de la República.
+
+Orden de arresto contra demandado: Es posible, hasta por quince días.
+
+Requisito imprescindible para demanda ejecutiva previsional: Existencia de derechos previsionales del trabajador vulnerado.
+
+VIII. Otros Aspectos
+
+Información para Sindicatos (Reforma Laboral): El empleador tiene obligación de proporcionar información de la empresa, en forma periódica, para la negociación colectiva.

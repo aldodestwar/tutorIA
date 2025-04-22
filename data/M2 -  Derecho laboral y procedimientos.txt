@@ -1,0 +1,351 @@
+Aquí tienes la transcripción del segundo módulo, organizada y estructurada para mayor coherencia:
+
+MÓDULO 2: El Derecho Procesal Laboral I y Derecho Procesal Orgánico Laboral
+Área: SOCIAL JURÍDICA
+Curso: DERECHO LABORAL Y PROCEDIMIENTOS
+
+
+
+Entender el significado del Derecho Procesal Laboral como rama del Derecho del Trabajo, ello mediante sus instituciones y conceptos fundamentales.
+
+1. Introducción
+
+En el presente módulo revisaremos con mayor profundidad el Derecho Procesal del Trabajo que constituye las herramientas que usaremos en nuestra futura vida laboral, y cuya información de conceptos y nomenclaturas de uso habitual necesita de gran atención, pues no contar con esta información podría significar la pérdida de muchas oportunidades laborales o de mejora en el futuro.
+
+Por otra parte, en el presente módulo existirá un Foro de Opinión en el cual podrán ir vinculando los conocimientos que adquieran con la utilidad correspondiente. La cantidad, calidad y participación durante el foro serán evaluadas, así como la capacidad de crear debates argumentando sólidamente con sus compañeros, serán variables determinantes para la calificación de este módulo, para la nota de presentación final.
+
+IMPORTANTE
+Los derechos de los trabajadores son derechos esenciales, por ello merecen reconocimiento, respeto y que exista un marco jurídico que ayude a esta protección. Nuestra misión como estudiantes y trabajadores es, no sólo entender cómo desempeñar un trabajo, sino también saber cuáles son nuestros derechos, y cómo actuar cuando ellos puedan ser vulnerados. (Note: This box appears to be a duplicate from Module 1, but is included as it was in the OCR).
+
+2. Definición de derecho procesal
+
+Existe una amplia gama de conceptos relacionados al derecho procesal, sin embargo, nos quedaremos con el señalado por el profesor Davor Harasic, que nos indica qué se entiende por este tipo de derecho: “Aquel conjunto de normas y principios que regulan la organización de la actividad jurisdiccional del Estado para la aplicación del derecho, y los procedimientos a través de los cuales se verifica tal actividad". Dicho concepto nos permite clasificar las dos grandes áreas del derecho procesal:
+
+Derecho procesal orgánico: Comprende el estudio de la organización del poder judicial, de los órganos que lo integran, y de la competencia que ellos poseen.
+
+Derecho procesal funcional o procedimental: Se refiere al estudio del proceso y de los procedimientos.
+
+2.1 Antecedentes del procedimiento laboral vigente en Chile
+
+La ley 20.087, que estableció el actual procedimiento laboral que rige en el país, representa un conjunto de innovaciones legislativas en materia laboral que incorpora profundas modificaciones en el juicio del trabajo, inscribiéndose en el marco de efectiva vigencia del derecho, a fin de tutelar en forma efectiva los derechos laborales.
+
+Las reformas se focalizan principalmente en puntos importantes como: el acceso a la justicia, la duración de los juicios y la efectividad de los créditos laborales. Es por ello que se establece un procedimiento ordinario laboral y diversos procedimientos especiales, basados principalmente en los principios formativos del juicio oral.
+
+3. Los principios formativos del derecho procesal laboral
+
+La importancia del estudio de estos principios formativos permite explicar la estructura de un procedimiento determinado, y por ende, el sentido que tienen las cargas procesales, los derechos y deberes de cada parte, como también los momentos procesales.
+
+Los principios formativos de nuestro procedimiento son:
+
+Oralidad e inmediación
+
+Impulso procesal de oficio
+
+Publicidad
+
+Concentración
+
+Celeridad
+
+Gratuidad
+
+Buena fe.
+
+3.1 Oralidad e inmediación
+
+El principio de la oralidad compele al tribunal a sólo considerar como elementos probatorios que sirvan de base para la sentencia los que hayan sido ofrecidos e incorporados en la etapa procesal respectiva en forma legal. Ello se manifiesta en diversas disposiciones legales, que se encuentran contenidos en los apuntes obligatorios de lectura. Salvo excepciones legales, el procedimiento es eminentemente oral, siendo importantes excepciones dentro de esta norma:
+
+Las actuaciones procesales.
+
+La contestación.
+
+Las relativas a las excepciones.
+
+La demanda reconvencional.
+
+El principio de la oralidad existe en función de la inmediación, permitiéndole al sentenciador el conocimiento directo de las pruebas aportadas, lo que reafirma la premisa de que lo que prima es la búsqueda de la verdad material. Esto se manifiesta en la producción de pruebas, siempre pudiendo el juez intervenir en la forma que le parezca conveniente, lejos del excesivo formalismo en la producción de dichas probanzas y las frases sacramentales, siendo esto evidente en la materialización de la prueba confesional o la testifical, lo que permite al juez un conocimiento directo, más verosímil y coherente.
+
+3.2 Impulso procesal de oficio
+
+Le corresponde al juez el impulso del juicio mediante resoluciones que ordenen actuaciones que dan curso progresivo a los autos y ordenan diligencias probatorias. No obstante, el inicio de una acción laboral depende exclusivamente de los particulares que quieran llevar la resolución de sus conflictos a una instancia judicial, por lo que la aplicación de este principio no es absoluto.
+
+3.3 Publicidad
+
+Según este principio las actuaciones procesales y el juicio en sí mismo, no sólo deben ser conocidas por las partes, sino también por los terceros ajenos al juicio, según lo dispone expresamente el artículo 425, del Código del Trabajo.
+
+El principio de publicidad tiene plena vigencia en nuestro ordenamiento procesal laboral, por aplicación supletoria de la norma general contenida en el al artículo 9 del Código Orgánico de Tribunales, que señala que: "...Los actos de los tribunales son públicos, salvo las excepciones expresamente establecidas por la ley...".
+
+En el antiguo Proceso Laboral chileno no existía norma como existe hoy en el nuevo proceso del trabajo, el que consagra en forma expresa la publicidad.
+
+3.4 Concentración
+
+Este principio señala que los actos procesales deben desarrollarse en una sola audiencia o en varias próximas con una relación temporal, a fin de que el juez conserve en su memoria lo señalado por las partes y pruebas aportadas, para no paralizar o trabar el negocio principal.
+
+3.5 Celeridad
+
+Según este principio, las actuaciones procesales deben realizarse con prontitud y rapidez, dentro del más breve plazo, por lo que se encuentra estrechamente vinculado con el de la concentración, pues sin una adecuada concentración no es posible que resulte un procedimiento ágil y rápido.
+
+A veces, incluso, puede existir conflicto entre el principio de la celeridad con una correcta administración de justicia laboral, pero lo importante es encontrar un punto de equilibrio.
+
+3.6 Gratuidad
+
+Este principio se enfoca hacia el trabajador, permitiendo que su acceso a justicia no sea tan oneroso, por cuanto el Derecho del Trabajo tiende a la protección del más débil, en atención a las condiciones económicas de las eventuales partes en conflicto. Sin embargo, existen trabajadores que gozan de diversos niveles de ingreso, por lo que la aplicación de este principio debe estar focalizada en beneficio de los trabajadores con ingresos inferiores, según parámetros objetivos.
+
+3.7 Buena fe
+
+Este principio, que es la piedra angular del derecho, tiene como objetivo primordial que el eventual conflicto judicial se enfoque a una correcta aplicación y sentido de justicia, no permitiendo actuaciones torcidas o resquicios de las partes, por las cuales logren objetivos ilícitos y no buscados por el legislador. En consecuencia, ante actos o actuaciones procesales que no se ejecuten conforme al principio de la buena fe, el Tribunal podrá adoptar las medidas necesarias para impedir el fraude, el abuso del derecho y las actuaciones manifiestamente dilatorias, siendo estas últimas las que buscan prorrogar o extender plazos o términos a fin de dilatar la resolución del asunto.
+
+4. Reglas comunes a todo procedimiento laboral
+
+La Ley Nº 20.087 establece las normas aplicables a todo procedimiento laboral, obteniendo así la unidad del sistema procesal del trabajo en lo referido a las materias laborales y de seguridad social, conformándose así un bloque normativo de especialidad.
+
+4.1 El carácter supletorio de las normas procesales
+
+Al momento de establecerse un procedimiento laboral de tramitación ordinaria y procedimientos especiales, la Ley Nº 20.087, establece una secuencia en la aplicación de las normas procesales para el caso en que se trate de situaciones procesales no reguladas por el procedimiento específico. Existe entonces un orden de prelación o secuencial en la aplicación de las normas procesales, con estricta consideración al procedimiento aplicable.
+
+Orden supletorio de las normas procesales en materia laboral:
+
+Normas especiales para cada procedimiento laboral.
+
+(En todo lo no previsto por el código del trabajo o en las correspondientes leyes especiales) Normas del procedimiento general u ordinario en juicio de trabajo.
+
+Normas contenidas en el Libro I Disposiciones comunes a todo procedimiento, Título I Reglas Generales y Título II De la Comparecencia en Juicio.
+
+Atendida la naturaleza especial de los procedimientos del trabajo, el legislador ha impuesto límites en la aplicación supletoria de normas procesales no laborales, considerando, además, el rol rector que se le ha asignado al juez, por lo que la aplicación supletoria de las normas del Código de Procedimiento Civil, no puede ir en contra de los principios que informan el procedimiento laboral.
+
+Respecto a las normas de procedimiento de reclamación de multas por infracciones a la leyes del trabajo o a las normas de seguridad social impuestas por la autoridad fiscalizadora respectiva, de acuerdo a lo establecido en el artículo 503 Código del Trabajo, modificado por la Ley Nº 20.260, éstas se regirán por las normas procesales del procedimiento ordinario, a menos que se trate de aquéllas de monto igual o inferior a 10 ingresos mínimos, en cuyo caso le serán aplicables las contenidas en el artículo 500 Código del Trabajo relativas al procedimiento monitorio.
+
+En cuanto al reclamo de otras resoluciones administrativas pronunciadas por la Dirección del Trabajo, estas se regirán supletoriamente por las normas del procedimiento monitorio.
+
+4.2 Asistencia letrada
+
+Las partes deben comparecer con patrocinio de abogado y representadas por habilitado en derecho para actuar en juicio. Ésta es una real garantía para las partes, puesto que la actuación letrada permite al representado un ejercicio eficaz de sus derechos procesales, lo que contribuye a la correcta sustanciación y el Debido Proceso.
+
+La Ley Nº 20.260 dispuso que el mandato judicial y el patrocinio constituido en el Tribunal de Letras del Trabajo se entiende constituido para la eventual prosecución del juicio que se siga ante el Tribunal de Cobranza Laboral y Previsional, a menos que el mandato otorgado ante el tribunal que conoce del procedimiento declarativo se limite a la tramitación en éste. Ésta es una norma excepcional en relación a lo establecido en el artículo 7º Código de Procedimiento Civil, y que tiene como fin proteger el derecho sustantivo desde el órgano jurisdiccional que facilita su realización ante el correspondiente tribunal de ejecución.
+
+4.3 Litigación electrónica
+
+Exceptuando las audiencias, podrán realizarse las actuaciones procesales de la parte que lo solicite cuando el tribunal acceda a ello mediante medios electrónicos.
+
+El juez no podrá imponer el uso de medios electrónicos para la ejecución de los actos procesales que sean propios de las partes y cada litigante deberá solicitar el uso de dichos medios electrónicos, que el juez podrá acceder en la medida que se cumpla con los supuestos de recepción, registro y control.
+
+Las defensas orales sólo podrán ser efectuadas por abogados habilitados". El Art. 433 del Código del Trabajo señala: "Siempre que alguna de las partes lo solicite para sí, y el tribunal acceda a ello, las actuaciones procesales, a excepción de las audiencias, podrán realizarse por medios electrónicos que permitan su adecuada recepción, registro y control. En este caso el administrador del tribunal deberá dejar constancia escrita de la forma en que se realizó dicha actuación".
+
+Dichas actuaciones tendrán el mismo valor que una presentación por vía de secretaría. Lo misma situación se da con las comunicaciones del tribunal hacia las partes y terceros a través de la notificación electrónica de ciertas resoluciones, exhortos o solicitudes de información a organismos.
+
+Cualquier solicitud que se haga al Tribunal se debe canalizar a través de la oficina virtual existente en el portal del Poder Judicial el cual se ingresa por medio de la clave única
+
+IMPORTANTE
+A pesar de que dichos medios ayudan con la celeridad del procedimiento, debe considerarse que el juicio del trabajo se estructura sobre la base de las audiencias, por lo que las actuaciones procesales por vía electrónica son excepcionales.
+
+4.4 Costas
+
+El juez tiene obligación de pronunciarse sobre las costas en toda resolución, tanto las que resuelven un incidente, como las que pongan término al juicio. La regla general, es que dicho pronunciamiento debe hacerlo al momento de pronunciar la respectiva resolución.
+
+En el evento de que el trabajador haya litigado con privilegio de pobreza, las costas personales a cuyo pago fuere condenada la contraria pertenecerán a la Corporación de Asistencia Judicial o a quien la ley señale.
+
+4.5 Plazos
+
+El Código del Trabajo establece que todos los plazos establecidos en el Libro V son fatales, salvo aquellos referidos a actuaciones propias del tribunal, lo que significa que la posibilidad de ejercer un derecho o de ejecutar un acto se extingue para las partes desde el momento mismo del vencimiento del plazo, sin necesidad de resolución judicial que lo declare, todo aquello sin perjuicio de lo establecido en el artículo 435 Código del Trabajo, en cuanto a que el tribunal de oficio o a petición de parte proveerá lo que corresponda para la prosecución del juicio, sin necesidad de previa certificación.
+
+Los plazos que la ley establezca se entenderán suspendidos durante los días feriados, es decir, en los plazos de días sólo comprenden aquéllos hábiles (lunes a sábado, marginado los días domingos y festivos), por ende, las actuaciones en día inhábil llevan al plazo al siguiente día hábil.
+
+4.6 Notificaciones
+
+En el nuevo procedimiento laboral vigente, se han establecido a lo menos cuatro notificaciones: la notificación de la demanda; la resolución que fija los puntos de prueba; la notificación de la sentencia, y la del cumplimiento incidental de la sentencia.
+
+La profunda modificación que en esta materia ha introducido la Ley Nº 20.087, se ajusta al modelo de audiencias, en tanto que no resultan posibles actuaciones o diligencias al margen de éstas en regla, cumpliendo además con la debida certeza de las normas del procedimiento, desde que las partes conocen de la carga procesal a que quedan afectas trabada que sea la Litis, desde que las notificaciones se tienen por efectuadas de pleno derecho, por lo que las actuaciones y resoluciones producidas tanto en las audiencias, como las que se refieren a la sentencia definitiva, se entienden como notificadas en virtud de la ley, sin necesidad de actuación procesal adicional.
+
+La Ley Nº 20.087 establece las siguientes reglas especiales de notificaciones respecto a las resoluciones judiciales.
+
+a. Notificación personal: El artículo 436 del Código del Trabajo establece que la primera notificación a la parte demandada se hará personalmente, entregándose copia íntegra de la demanda y de la resolución que recae en ella por intermedio de un funcionario del tribunal designado por el juez o bien por un receptor, a costa de la parte que le encomienda la gestión.
+
+Lo normal es que la primera notificación de autos corresponda a la notificación de la demanda, al demandante dicha resolución se le notifica por el estado diario.
+
+Cuando la notificación se realiza en un lugar o recinto de acceso público, se podrá realizar en cualquier día y hora, procurando causar la menor molestia al notificado.
+
+Cuando ésta se practica en la morada o lugar donde la parte ejerce su industria, profesión o empleo, la notificación podrá intimidarse entre las 6.00 y 22.00 horas de cualquier día, lo que no obsta a que el juez, por motivos fundados, decrete que la notificación se realice en horas distintas a las autorizadas por la ley.
+
+La Ley Nº 20.260, que modifica la Ley Nº 20.087, elimina la referencia a la tabla de emplazamiento, puesto que los plazos que se establecen respecto de las notificaciones y de la contestación de la demanda como del modelo de audiencias hacen innecesaria la aplicación dicha tabla.
+
+En cuanto a la notificación personal, es menester tener presente la situación especial que se presenta cuando el demandado es el trabajador, conforme lo preceptuado en el artículo 438 del Código del Trabajo.
+
+b. Notificación personal especial laboral: Dicha notificación es procedente en el evento de que no fuere posible practicar la primera notificación personalmente al no ser habida la persona a quien deba notificarse y siempre que el ministro de fe establezca cuál es su domicilio o lugar donde habitualmente ejerce su industria, profesión o empleo, y, en el evento de tratarse de una persona natural que se encuentre en el lugar del juicio, se procederá a su notificación en el mismo acto, sin necesidad de resolución ni de diligencia adicional.
+
+La Ley Nº 20.087 suprimió la obligación de búsqueda en dos días distintos y la correspondiente resolución del tribunal. Ello corresponde a una medida de celeridad procesal, bastando con la sola certificación del ministro de fe para la debida certeza y el eventual derecho a defensa del demandado.
+
+El ministro de fe deberá entregar copia de la resolución y de la demanda a persona adulta que se encuentre en el lugar. En el evento de que esto no fuera posible, se fijará un aviso en un lugar visible que dé cuenta de la demanda, con la identificación de las partes, la materia, el juez que conoce del asunto y las resoluciones que se notifican. En el evento de que la persona a notificar resida en un departamento o condominio, el aviso y las copias se entregan al portero o encargado del edificio, dejándose constancia expresa de dicha circunstancia.
+
+El ministro de fe da aviso a las partes enviándoles carta certificada el mismo día o a más tardar al día siguiente, y su omisión no invalida la notificación pero le hará responsable de los daños y perjuicios que se puedan producir y las eventuales sanciones que debe imponer el juez.
+
+c. Notificación por avisos: En el caso en que la notificación debe hacerse a personas: cuya individualización o domicilio es difícil de determinar; o que por su cantidad, sea complicada su realización, el juez dispondrá la notificación mediante la publicación de un aviso o por cualquier medio idóneo que garantice tanto el derecho a la defensa como los principios de igualdad y de bilateralidad de la audiencia.
+
+En el nuevo procedimiento laboral, la publicación se hará por una sola vez en el Diario Oficial u otro diario de circulación nacional o regional, en extracto que contenga un resumen de la demanda y copia íntegra de la resolución recaída en ella. La publicación en el Diario Oficial será gratuita para los trabajadores.
+
+En el supuesto en que sea difícil de determinar la individualización o domicilio del demandado, se faculta al juez para ordenar se practique la notificación no sólo mediante avisos sino que también por otros medios que sean idóneos y que resguarden el derecho a la defensa, el principio de igualdad y de bilateralidad de la audiencia.
+
+No se ha definido legalmente el término “medio idóneo," quedando ese criterio entregado a la determinación del juez. Sin embargo, se debe satisfacer las condiciones de certidumbre y de publicidad que den garantías al sujeto pasivo de la notificación.
+
+d. Notificación de la demanda a un trabajador: Cuando se notifica al trabajador en el lugar donde ejerce sus labores y éste además corresponde a la empresa, faena o establecimiento con la que litiga, dicha notificación siempre será personal; esto no admite excepción alguna. Ésta es una norma de garantía que permite el derecho a defensa del trabajador, puesto que en el caso contrario, si se admitiera otra forma de notificación, podría quedar en un estado de indefensión.
+
+e. Notificación de la resolución que no se dicte en la audiencia y que ordena la comparecencia personal de las partes: La resolución que no se haya dictado en la audiencia y que ordena la comparecencia personal de las partes se notifica mediante carta certificada, la que se entenderá practicada al quinto día de su entrega a correos, de lo que se dejará constancia, por lo que todo litigante designará en su primera actuación un lugar dentro de los límites urbanos de la ciudad asiento del tribunal, y en el evento de no cumplirse con esta obligación, se le notificará por el estado diario, sin que sea necesaria solicitud de parte ni una orden previa del tribunal.
+
+f. Notificación de la sentencia definitiva o de la sentencia parcial: De conformidad a lo dispuesto en los artículos 453 y 457 del Código del Trabajo, el juez podrá dictar sentencia en la audiencia preparatoria en el evento de que no se controvirtiese lo demandado total o parcialmente o al término de la audiencia de juicio, por lo que las partes se entenderán notificadas en la misma audiencia, hayan o no concurrido a ésta.
+
+Si el juez la dicta en el plazo que fije, el cual no podrá ser posterior a los quince días desde la realización de la audiencia de juicio, las partes se entenderá notificadas en la actuación a que han sido citadas para ello, asistan o no a ésta.
+
+g. Otras resoluciones: Las restantes resoluciones se notifican por el estado diario. Sin perjuicio de aquello y con la sola excepción de la demanda y de la sentencia, las partes pueden notificarse por vía electrónica u otro medio, previa petición de parte, dejándose constancia de ello. Todo aquello sin perjuicio de que, en todo caso, se entienda además practicado por el estado diario.
+
+4.7 Incidentes
+
+Toda cuestión accesoria al juicio debe resolverse en las audiencias. Corresponde a la regla general, concordando aquello con los principios formativos del proceso. Sin embargo, y sólo en forma excepcional, podrá el juez dejar su resolución para definitiva.
+
+Esta norma deberá entenderse, en todo caso, en forma restrictiva, no sólo por su carácter excepcional sino, además, por lo ya señalado, en cuanto a que las actuaciones procesales deben realizarse en las audiencias, ante el juez de la causa y conforme al principio de bilateralidad de la audiencia, todo aquello sin perjuicio de que ante una eventual no comparecencia de las partes, las resoluciones se entiendan notificadas en dicha audiencia.
+
+Se estima además, y sólo en casos excepcionales, que se podrá promover el incidente a través de medios electrónicos, conforme a la norma del artículo 433 del Código del Trabajo.
+
+5. Derecho procesal laboral orgánico
+
+La estructura y las funcionamiento de los Juzgados de Letras del Trabajo han seguido en lo que es posible el funcionamiento de los Juzgados de Garantía, Tribunales del Juicio Oral en lo Penal y los Tribunales de Familia, siendo compatibles a lo señalado por el Código Orgánico de Tribunales en lo referente al comité de jueces, juez presidente, administradores de tribunales y organización administrativa de los juzgados.
+
+El Consejo Superior de la Corporación Administrativa del Poder Judicial aprobó organigramas al respecto, siendo una estructura base que variara de acuerdo al número de jueces que los conformen el tribunal:
+
+Un juez,
+
+Un administrador.
+
+Un jefe de unidad.
+
+Dos administrativos jefes.
+
+Dos administrativos 1º.
+
+Dos administrativos 2º.
+
+Dos administrativos 3º
+
+Dos auxiliares.
+
+En los casos de existir dos o más jueces existirá un Juez presidente, y variaran la cantidad de funcionarios a partir de la estructura ya señalada.
+
+5.1.a. El Comité de Jueces
+
+El Comité de Jueces constituye el nivel superior de decisión dentro del tribunal, integrado por un número variable de tres a cinco Jueces, dependiendo de la dotación del juzgado.
+
+El Código Orgánico de Tribunales asigna al Comité de Jueces las siguientes funciones:
+
+a. Aprobar el procedimiento objetivo y general de distribución de causas entre los jueces de los Juzgados Laborales. Este debe ser aprobado anualmente, ya sea por el Comité de Jueces del juzgado a propuesta del Juez Presidente, o sólo por este último, según corresponda.
+b. No obstante, tratándose de los Juzgados Laborales correspondientes a la jurisdicción de la Corte de Apelaciones de Santiago, será ésta la que determinará anualmente las normas que regirán para la distribución de las causas entre los tribunales.
+c. Designar, de la terna que le presente el Juez Presidente, al Administrador de Tribunal;
+d. Calificar anualmente al Administrador de Tribunal;
+e. Resolver acerca de la remoción del Administrador de Tribunal;
+f. Designar al personal del juzgado o tribunal, a propuesta de terna del Administrador de Tribunal;
+g. Conocer de la apelación que se interpusiere en contra de la resolución del Administrador que remueva a algún empleado del juzgado o tribunal;
+h. Decidir el proyecto de plan presupuestario anual que le presente el juez presidente, para ser propuesto a la Corporación Administrativa del Poder Judicial, y
+i. Conocer de todas las demás materias que señale la ley.
+
+De acuerdo a la ley, existirá Comité de Jueces en los Juzgados Laborales en los que sirvan tres o más jueces. El Comité se conformará de acuerdo a los siguientes criterios:
+
+En los Juzgados Laborales compuestos por cinco jueces o menos, el Comité se conformará por todos ellos.
+
+En los Juzgados Laborales compuestos por más de cinco jueces, el Comité se compondrá por los cinco jueces que sean elegidos por la mayoría del tribunal, cada dos años.
+
+Tratándose de Juzgados Laborales en que se desempeñen tan sólo uno o dos jueces, las funciones recién reseñadas se distribuyen de la siguiente manera: las indicadas en las letras b), c), d) y f) corresponderán al Presidente de la Corte de Apelaciones respectiva. En tanto que, las atribuciones definidas en las letras a), e), g) y h) quedarán radicadas en el juez que cumpla la función de Juez Presidente.
+
+Los acuerdos del Comité de Jueces se adoptarán por mayoría de votos; en caso de empate, decidirá el voto del Juez Presidente.
+
+5.1.b. Juez Presidente
+
+El objetivo general del cargo es velar por el adecuado funcionamiento del juzgado.
+
+El Código Orgánico de Tribunales establece que en el cumplimiento de su función, el Juez Presidente tendrá los siguientes deberes y atribuciones:
+
+a. Presidir el Comité de Jueces.
+b. Relacionarse con la Corporación Administrativa del Poder Judicial en todas las materias relativas a la competencia de ésta;
+c. Proponer al Comité de Jueces el procedimiento objetivo y general de distribución de causas entre los jueces de los Juzgados Laborales;
+d. Elaborar anualmente una cuenta de la gestión jurisdiccional del juzgado;
+e. Aprobar los criterios de gestión administrativa que le proponga el Administrador de Tribunal y supervisar su ejecución;
+f. Aprobar la distribución del personal que le presente el Administrador de Tribunal;
+g. Calificar al personal, teniendo a la vista la evaluación que le presente el Administrador de Tribunal;
+h. Presentar al Comité de Jueces una terna para la designación del Administrador de Tribunal;
+i. Evaluar anualmente la gestión del Administrador de Tribunal; y,
+j. Proponer al Comité de Jueces la remoción del Administrador de Tribunal.
+
+El Juez Presidente es elegido de entre los miembros del Comité de Jueces, dura dos años en el cargo, pudiendo ser reelegido hasta por un nuevo período.
+
+En aquellos tribunales que no cuenten con Comité de Jueces se aplicarán los siguientes criterios:
+
+En los Juzgados Laborales en que se desempeñe solo un Juez, éste tendrá las atribuciones de Juez Presidente, con excepción de las contempladas en las letras a) y c) precedentes. Las atribuciones de las letras h) y j) las ejercerá el Juez ante el Presidente de la Corte de Apelaciones respectiva.
+
+En los Juzgados Laborales conformados por dos Jueces, las atribuciones de Juez Presidente, con las mismas excepciones del caso anterior, se radicarán anualmente en uno de ellos empezando por el más antiguo.
+
+En ambos casos, además de las funciones y atribuciones antes indicadas, el Juez Presidente deberá realizar ciertas atribuciones inicialmente asignadas al Comité de Jueces. Estas son:
+
+Aprobar el procedimiento objetivo y general de distribución de causas entre los jueces de los Juzgados Laborales;
+
+Designar al personal del juzgado o tribunal, a propuesta de terna del Administrador;
+
+Decidir el proyecto de plan presupuestario anual para ser propuesto a la Corporación Administrativa del Poder Judicial; y,
+
+Conocer de todas las demás materias que señale la ley.
+
+5.1.c. Administrador de Tribunal
+
+El Administrador de Tribunal es un funcionario auxiliar de la administración de justicia encargado de organizar y controlar la gestión administrativa de los Juzgados Laborales.
+
+Sin perjuicio de las demás funciones que la ley le asigne, al Administrador de Tribunal, de conformidad con el Código Orgánico de Tribunales, le corresponden las siguientes:
+
+a. Dirigir las labores administrativas propias del funcionamiento del tribunal o juzgado, bajo la supervisión del Juez Presidente del Comité de Jueces.
+b. Proponer al Comité de Jueces la designación del personal del tribunal.
+c. Proponer al Juez Presidente la distribución del personal.
+d. Evaluar al personal a su cargo.
+e. Distribuir las causas a las salas del respectivo tribunal, conforme a un procedimiento objetivo y general aprobado.
+f. Remover al personal del tribunal, en su caso.
+g. Llevar la contabilidad y administrar la cuenta corriente del tribunal.
+h. Dar cuenta al Juez Presidente acerca de la gestión administrativa del tribunal.
+i. Elaborar el presupuesto anual, que deberá ser presentado al Juez Presidente a más tardar en el mes de mayo del año anterior al ejercicio correspondiente.
+El presupuesto deberá contener una propuesta detallada de la inversión de los recursos que requerirá el tribunal en el ejercicio siguiente.
+j. Adquirir y abastecer de material de trabajo al tribunal, en conformidad con el plan presupuestario aprobado para el año respectivo.
+k. Ejercer las demás funciones que le sean asignadas por el Comité de Jueces o el Juez Presidente o que determinen las leyes.
+
+Según el propio Código Orgánico de Tribunales para el cumplimiento de sus funciones, el Administrador de Tribunal se atendrá a las políticas generales de selección de personal, de evaluación, de administración de recursos materiales y de personal, de diseño y análisis de la información estadística y demás que dicte el Consejo de la Corporación Administrativa del Poder Judicial, en el ejercicio de sus atribuciones propias.
+
+En cada Juzgado Laboral, sin importar su tamaño, existirá un Administrador de Tribunal encargado de realizar las funciones antes señaladas.
+
+En cuanto a las exigencias para ser Administrador de Tribunal, se requiere poseer un título profesional relacionado con las áreas de administración y gestión, otorgado por una universidad o por un instituto profesional, de una carrera de ocho semestres de duración a lo menos.
+
+5.1.d. Unidades Administrativas.
+
+La ley que crea los Juzgados Laborales, define las unidades administrativas que poseerá cada juzgado para desarrollar las tareas de apoyo a las funciones jurisdiccionales que le son propias. Dichas unidades son:
+
+Unidad de Sala: Esta unidad le corresponde la organización y asistencia a la realización de las audiencias.
+
+Unidad de Atención de Público: La unidad de Atención al Público será responsable de otorgar una adecuada atención, orientación e información al público que concurra al tribunal y manejar la correspondencia y custodia del tribunal.
+
+Unidad de Servicios: Corresponde a la Unidad de Servicios desarrollar las labores de soporte técnico de la red computacional del juzgado, de contabilidad, de apoyo a la actividad administrativa, la coordinación y abastecimiento de todas las necesidades físicas y materiales que requiera el procedimiento.
+
+Unidad de Administración de Causas: El manejo de Causas y registros de los procesos, incluido lo relativo a las notificaciones; al manejo de las fechas y salas para las audiencias; al archivo judicial básico, al ingreso y al número de rol de las causas nuevas; a la actualización diaria de la base de datos que contenga las causas del juzgado, y a las estadísticas básicas del mismo, está a cargo de la Unidad de Administración de Causas.
+
+Las causas son ingresadas directamente al sistema informático por el funcionario definido previamente por el Administrador del Tribunal, es competente para conocer de estas causas el juez del domicilio del demandado o el lugar donde se hayan prestado los servicios.
+
+El Patrocinio y Poder puede ser constituido ante el ministro de fe del Tribunal, así como en audiencia, ante el juez que dirija la audiencia, no obstante las para resolver las peticiones de los demandantes ante de una audiencia, se requerirá que se encuentre autorizado el patrocinio y poder por el ministro de fe.
+
+Una vez ingresada la causa al sistema informático, el sistema le asigna un rol de ingreso al tribunal llamado abreviadamente RIT.
+
+La distribución de causas entre los jueces que conformen el tribunal, se regirá acorde al procedimiento propuesto por el Administrador y Juez Presidente, el que debe ser aprobado por el Comité de Jueces.
+
+Unidad de Cumplimiento: Los Juzgados de Letras del Trabajo que además deban conocer materias de cobranza laboral y previsional deberán considerar la existencia de una Unidad de Cumplimiento, que desarrollará las gestiones necesarias para la adecuada y cabal ejecución de las resoluciones judiciales y demás títulos ejecutivos de competencia de estos tribunales.
+
+5.2. Defensa Laboral
+
+El programa de Defensa Laboral opera, a través, de las Corporaciones de Asistencia Judicial y es supervigilado por el Ministerio de Justicia, contempla 138 defensores laborales para cubrir todo el territorio nacional y su implementación es gradual a lo largo del país, al igual que el inicio de la reforma judicial laboral.
+
+El acceso a asistencia laboral especializada se encuentra limitada, al monto de ingresos familiares que cuenten los trabajadores, el que no puede ser superior a $380.000, así como es importante destacar que un alto porcentaje de las demandas laborales son favorables para los trabajadores, razones por las cuales los empleadores deben maximizar sus resguardos en el trato con sus trabajadores.
+
+6. Cierre
+
+Inicialmente realizamos una breve introducción al Derecho Procesal como disciplina dentro del derecho, para luego ir paulatinamente entrando al procedimiento laboral, comenzando por los principios formativos del derecho laboral, que son los lineamientos o pilares básicos procedimentales.
+
+Posteriormente, analizamos las reglas comunes para todos los procedimientos laborales, los que son tópicos generales y comunes para cada uno de los procedimientos laborales, instituciones que se repiten para cada uno de ellos, pero con sus propias particularidades.
+
+Finalmente, hicimos un análisis del derecho procesal orgánico laboral, que corresponde a la legislación que regula las instituciones, tribunales, jueces y funcionarios que forma parte de la estructura procesal en donde se llevarán a cabo los juicios del trabajo.
