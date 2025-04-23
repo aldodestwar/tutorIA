@@ -6,7 +6,7 @@ import time
 import textwrap # Import textwrap for potentially shortening large text for display
 
 # --- Configuration ---
-APP_TITLE = "📚 TutorIA Derecho Laboral - Aldo Manuel Herrera Hernández - IPP"
+APP_TITLE = "📚 TutorIA Derecho Laboral - ProfesorAldo Manuel Herrera Hernández - Tutora Rocio Daniela Orellana Véliz- IPP"
 DATA_FOLDER = "data"
 CONTEXT_FILE_PATTERN = "*.txt"
 DISPLAY_MODEL_NAME = "gemini-2.5-flash-preview-04-17" # Display the actual model name now for clarity
@@ -386,4 +386,4 @@ st.sidebar.caption("Restricciones: Sólo responde sobre el material; Tono profes
 st.sidebar.caption("Puede ser lento/costoso si los archivos .txt son muy grandes.")
 st.sidebar.caption("Requiere Google API Key válida.")
 st.sidebar.markdown("---")
-st.sidebar.caption("✨ App por Aldo Manuel Herrera Hernández - IPP")
+st.sidebar.caption("✨ App por Aldo Manuel Herrera Hernández y Rocío Daniela Orellana Véliz- IPP")
