@@ -9,8 +9,8 @@ import textwrap # Import textwrap for potentially shortening large text for disp
 APP_TITLE = "📚 TutorIA Derecho Laboral - IPP"
 DATA_FOLDER = "data"
 CONTEXT_FILE_PATTERN = "*.txt"
-DISPLAY_MODEL_NAME = "gemini-2.5-flash-preview-04-17" # Display the actual model name now for clarity
-ACTUAL_MODEL_NAME = "gemini-2.5-flash-preview-04-17" # Use the correct, standard identifier
+DISPLAY_MODEL_NAME = "gemini-2.5-pro-preview-03-25" # Display the actual model name now for clarity
+ACTUAL_MODEL_NAME = "gemini-2.5-pro-preview-03-25" # Use the correct, standard identifier
 MAX_CONTEXT_CHARS_WARN = 2000000 # Warn if context exceeds this, but don't block unless API fails
 API_KEY_LINK = "https://aistudio.google.com/apikey"
 
