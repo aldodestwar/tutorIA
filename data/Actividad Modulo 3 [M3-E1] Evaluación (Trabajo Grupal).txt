@@ -6,6 +6,15 @@ Actividad
 1. De la demanda adjunta de despido indebido e improcedente, identifiquen los elementos de la
 demanda que señala el artículo 446 del Código del Trabajo Chileno. Lo anterior, debe entregarlo
 trascribiendo cada uno de los elementos y señalar a cuál corresponde.
+
+Articulo 446:
+a)	Designación del Tribunal ante quien se entabla:
+b)	El nombre, apellidos, domicilio, profesión u oficio del demandante, y en su caso de las personas que lo representen y la naturaleza de la representación:
+c)	El nombre, apellidos, domicilio y profesión u oficio del demandado:
+d)	La exposición clara y circunstanciada de los hechos y consideraciones de derecho en que se fundamenta:
+e)	La enunciación precisa y concreta de las peticiones que se someten a la resolución del Tribunal:
+
+
 (Demanda adjuntada: PROCEDIMIENTO: 		APLICACIÓN GENERAL, TUTELA LABORAL
 MATERIA: 	DENUNCIA POR VULNERACIÓN DE DERECHOS FUNDAMENTALES CON OCASIÓN DEL DESPIDO, EN SUBSIDIO DESPIDO IMPROCEDENTE, COBRO DE INDEMNIZACIONES Y PRESTACIONES LABORALES.
 DEMANDANTE: 			MARIANA PAZ BERENGUER MONTREAL
